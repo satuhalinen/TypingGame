@@ -60,6 +60,6 @@ body,
 }
 
 .incorrect {
-  color: red;
+  color: rgb(237, 20, 219);
   text-decoration: underline;
 }
