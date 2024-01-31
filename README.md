@@ -1,4 +1,6 @@
-Typing Game
+# Typing Game
+
+![workflow badge](https://github.com/satuhalinen/TypingGame/actions/workflows/github-actions-demo.yml/badge.svg)
 
 - Uses random quotable.io api
 - Deployed using AWS CodePipeline and AWS BeanStalk
