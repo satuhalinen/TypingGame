@@ -52,7 +52,7 @@ body,
 }
 
 .quote-input:focus {
-  border-color: black;
+  border-color: grey;
 }
 
 .correct {
