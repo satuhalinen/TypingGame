@@ -19,7 +19,7 @@ body,
 .container {
   background-color: beige;
   padding: 1rem;
-  border-radius: 0.5rem;
+  border-radius: 1rem;
   width: 700px;
   max-width: 90%;
 }
